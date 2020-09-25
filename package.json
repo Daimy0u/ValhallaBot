@@ -8,6 +8,7 @@
     "fstorm": "latest",
     "jimp": "latest",
     "node-cron": "^2.0.3",
+    "node-cron-no-open-collective": "^2.0.4-beta",
     "request": "^2.88.2"
   }
 }
